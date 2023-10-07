@@ -1,0 +1,63 @@
+.age{
+    /* padding: 5px; */
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    width: 300px;
+    border-radius: 5px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.form1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 9px;
+}
+.age1{
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    width: 300px;
+    border-radius: 5px;
+    background-color:  #8b5fe3;
+    color: white;
+    font-weight: 600;
+    font-family: sans-serif;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.or{
+    color: gray;
+}
+.age2{
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    width: 200px;
+    border-radius: 8px;
+    background-color: white;
+    color: rgb(91, 10, 148);
+    font-weight: 600;
+    font-family: sans-serif;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.age3{
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    width: 200px;
+    border-radius: 8px;
+    background-color: white;
+    color: rgb(57, 57, 213);
+    font-weight: 600;
+    font-family: sans-serif;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
